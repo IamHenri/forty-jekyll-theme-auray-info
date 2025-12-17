@@ -7,8 +7,8 @@ baseurl: "/forty-jekyll-theme-auray-info" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Henri Lecaye
 street_address: rue Georges Clémenceau
-city: Paris
-state: Ile de France
+city: Auray
+state: Morbihan
 zip_code: 56400
 country: France
 phone: 0033677557247
@@ -22,12 +22,12 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/iamhenri
+  GitHub: https://github.com/IamHenri
   GitLab:
   Google-Plus: 
   Instagram:
   LinkedIn: https://www.linkedin.com/in/h3nr1
-  Twitter: https://twitter.com/linkmozaic
+  Twitter: 
   Facebook:
   Slack:
 
